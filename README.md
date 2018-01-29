@@ -2,6 +2,8 @@
 
 This ruby script downloads the latest stable Alpine Linux `minirootfs` release and creates a Docker image.
 
+> **Note**: this script is discontinued. If you want to use ARM images on Docker with great support and enhancements, check out [Resin.io](https://resin.io) [images](https://hub.docker.com/u/resin/).
+
 ## Usage
 
 ```bash
